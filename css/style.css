@@ -9320,3 +9320,21 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    /* my stylings */
+
+    .logo{
+      width: 100%;
+      height: 5rem;
+      
+
+      a{
+        img{
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          
+        }
+      }
+    }
